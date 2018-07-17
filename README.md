@@ -15,11 +15,14 @@
     <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg"
       alt="Standard" />
   </a>
+  <a href="https://greenkeeper.io">
+    <img src="  https://badges.greenkeeper.io/Deuaidd/mwnci.svg"
+      alt="Greenkeeper" />
+  </a>
 </div>
 
 ## Table of Contents
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/Deuaidd/mwnci.svg)](https://greenkeeper.io/)
 
 - [Features](#features)
 - [Installation](#installation)
