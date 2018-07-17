@@ -18,6 +18,9 @@
 </div>
 
 ## Table of Contents
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Deuaidd/mwnci.svg)](https://greenkeeper.io/)
+
 - [Features](#features)
 - [Installation](#installation)
 - [Support](#support)
