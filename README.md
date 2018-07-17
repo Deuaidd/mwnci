@@ -23,7 +23,6 @@
 
 ## Table of Contents
 
-
 - [Features](#features)
 - [Installation](#installation)
 - [Support](#support)
