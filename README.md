@@ -16,7 +16,7 @@
       alt="Standard" />
   </a>
   <a href="https://greenkeeper.io">
-    <img src="  https://badges.greenkeeper.io/Deuaidd/mwnci.svg"
+    <img src="https://badges.greenkeeper.io/Deuaidd/mwnci.svg"
       alt="Greenkeeper" />
   </a>
 </div>
