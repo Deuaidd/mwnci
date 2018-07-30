@@ -1,5 +1,5 @@
 {
-  "name": "prawf",
+  "name": "mwnci",
   "version": "0.0.1",
   "description": "testing travis pipeline",
   "main": "sum.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Deuaidd/prawf.git"
+    "url": "git+https://github.com/Deuaidd/mwnci.git"
   },
   "author": "Ryan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Deuaidd/prawf/issues"
+    "url": "https://github.com/Deuaidd/mwnci/issues"
   },
-  "homepage": "https://github.com/Deuaidd/prawf#readme",
+  "homepage": "https://github.com/Deuaidd/mwnci#readme",
   "dependencies": {
     "jest": "^23.4.1",
     "snyk": "^1.89.0"
