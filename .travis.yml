@@ -8,7 +8,8 @@ install:
 script:
 - npm test
 deploy:
-  on:
-    tags: true
+  provider: npm
   api_key:
     secure: oyaUGiRizCtqwB7KVE3VFdz8dBUcGrIeU/lyQQPJqj+vafhT+FEmGiz2kpFyg9FaUkuBMNAA5zklacZZl+uCq12np4JfgbC9qyBqFH1JWrJ/844Q4ShQ6q6xhI/ttVJeICuBuNjo4URCtCaddpUedtj+tbVcTQ0VP5vKCNSkzcJdmOBQe5+slrsWapIQJWnkH3cS7gJ/nAujuOi1X77mpDxkU8S/WRh8fKky+WVaz2i0qO5W2z+e5IzhMK6eDU0CSmIolz17UqY/P65f6e+7I5QRaRxB56lsyVaN4Yg1PhCZ6mZb8rllbx7Ldrf9rdZ2sevZ/j2CqcgcpFAPdsDf9L2eSg4Ow1HAcwRFnXg4v3kgz2bA0JwEOtgVJGvJ9zB5SGhTZdMROMTiJfSqGx457cG/MVxmi7osYjlLx5ByrEjDdQGHM2H96wHFgohlkPkdT65Hr6r7k2xVv96tGdVcPAx0gotQGDnegJVsT4VRxfeMEGNQAQFImhPExyTuRgkJfQvu+W6GlzzBKQts5M/Z4PcxYDmXyW5d8bQNvPUeEqCmmFd2eS776bE/8Z3YKlo+oIiy7C2X0HVHWl7vbmbsRBlkFl2XgoShYlvHqXi5Z/zTccVKD34X6fCMMmAqZOPSpXLwFMoWjEjAaIcN3Ji6cr/CWDN5ATWWjClit5AazEQ=
+  on:
+    tags: true
