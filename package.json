@@ -18,7 +18,7 @@
   "homepage": "https://github.com/Deuaidd/mwnci#readme",
   "dependencies": {
     "jest": "^23.4.1",
-    "snyk": "^1.101.1"
+    "snyk": "^1.1064.0"
   },
   "devDependencies": {
     "coveralls": "^3.0.2"
